@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06_数组指针和指针数组.cpp">
+    <ClCompile Include="结构体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

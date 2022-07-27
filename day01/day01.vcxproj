@@ -142,7 +142,7 @@
     <ClInclude Include="socketclient.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06_数组指针和指针数组.cpp" />
+    <ClCompile Include="结构体.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
